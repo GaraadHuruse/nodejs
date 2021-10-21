@@ -1,0 +1,5 @@
+
+        This file is merge of '/content/async.txt' and '/content/first.txt':
+        This the first text. Welcome to it.
+        This text file was created with the async writeFile method
+        
